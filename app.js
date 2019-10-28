@@ -87,5 +87,4 @@ const port = process.env.PORT || 3000
 app.server = app.listen(port, () => {
   console.log(`server running @ http://localhost:${port}`)
 })
-
 module.exports = app

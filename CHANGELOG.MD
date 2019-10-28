@@ -1,4 +1,17 @@
 # 更新日志
+### 3.24.1 | 2019.10.25
+- 修改默认绑定 HOST [#615](https://github.com/Binaryify/NeteaseCloudMusicApi/issues/615)
+
+### 3.24.0 | 2019.10.22
+- 新增`类别热门电台` 接口 [#607](https://github.com/Binaryify/NeteaseCloudMusicApi/issues/607)
+
+### 3.23.0 | 2019.10.16
+- 修复电台 banner 接口无数据问题[#601](https://github.com/Binaryify/NeteaseCloudMusicApi/issues/601)
+
+- 更新排行榜 [#602](https://github.com/Binaryify/NeteaseCloudMusicApi/issues/602)
+
+- 新增`电台排行榜`,`新晋电台榜`,`热门电台榜`接口 [#604](https://github.com/Binaryify/NeteaseCloudMusicApi/issues/604)
+
 ### 3.22.4 | 2019.09.26
 - 修复私信历史记录分页参数问题,更新文档 [#599](https://github.com/Binaryify/NeteaseCloudMusicApi/issues/599)
 
